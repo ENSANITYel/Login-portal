@@ -1,10 +1,12 @@
 # Login-portal-using-node-js
-Login portal using html and node js (**basic)
-packages used : express, ejs ,nodemon ,bcrypt ,express-flash ,express-session
-made on :code sandbox
-features: Interconnected page links ,hashed password using bcrypt and logs of every new account sign in adn log in 
-disadvantages :no account storage database made over it and nop css used for styling
-port use :3500 localhost
+1.Login portal using html and node js (**basic)
+2.packages used : express, ejs ,nodemon ,bcrypt ,express-flash ,express-session
+3.made on :code sandbox
+4.features: Interconnected page links ,hashed password using bcrypt and logs of every new account sign in adn log in 
+5.disadvantages :no account storage database made over it and nop css used for styling
+6.port use :3500 localhost
+7.sandbox link for reference:https://codesandbox.io/s/sabyasachidutta-nodejs-project-forked-hv2z39?from-embed
+8.screenshots for reference
 ![Screenshot (29)](https://user-images.githubusercontent.com/96373614/175924423-867ddb6b-90ad-470b-9617-7e532581d51e.png)
 ![Screenshot (30)](https://user-images.githubusercontent.com/96373614/175924482-7366faac-53d0-4bd5-9614-9800e6cadcd2.png)
 ![Screenshot (31)](https://user-images.githubusercontent.com/96373614/175924541-b2a5bdc7-1792-4fa5-8a89-36c62a0d532f.png)
